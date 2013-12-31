@@ -1,19 +1,59 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+ - Área de Jornalismo
+ - Área de Semântica
+ - Tsuru: Plataforma como serviço
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+## Dados Pessoais ##
+ - Nome: Lázaro Diego Tolentino Ribeiro
+ - Idade: 28
+ - Email/Hangout: diegotolentino(VariosQuilos)gmail(pontinho)
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+## Formação Acadêmica ##
+ - Curso: Analise e desenvolvimento de sistemas
+ - Instituição: PUC-GO
+ - Conclusão: 01/2009 - 06/2011
+
+## Apresentação ##
+Desenvolvedor de softwares profissional desde 2002, sou auto didata por natureza, porem acho mais criativo a iteração entre pessoas, participo ativamente das comunidades aqui de GO, sou apaixonado por XP e Scrum, atualmente estudando a respeito de TDD.
+
+Participei do http://welcometothedjango.com.br/ turma 10, onde aprendi Django, já utilizo Python para automação de tarefas (https://github.com/diegotolentino/multi_cntlm) 
+
+Busco um local para melhorar profissionalmente, uma empresa onde os projetos sejam desafiadores, com habiente que estimule a criatividade e a inovação, por isso resolvi mandar meu curriculo apos assistir a palestra do Rafael Martins no RuPy Conference Brazil 2013.
+
+
+## Experiência Profissional
+
+### Indra do Brasil ###
+ - Periodo: 10/2013 - Presente
+ - Site: http://www.indracompany.com/pt-br/
+ - Lidero uma equipe de desenvolvedores que atuam em um projeto do governo federal.
+
+### Interagi Tecnologia ###
+ - Periodo: 12/2012 – 09/2013
+ - Site: http://www.interagi.com.br
+ - Trabalhei na equipe que desenvolveu o Eficiente 3.0, projeto financiado pelo FINEP, que faz automação de processos de uma organização utilizando a notação BPMN.
+
+### Avaaz ###
+ - Periodo: 05/2012 – 06/2013
+ - Site: http://avaaz.org/en/
+ - Correções no engine principal e backend, correção e construção de relatórios
+diversos principalmente para analise da penetração de cada petição por língua e região
+do mundo.
+
+### Webinnovative ###
+ - Periodo: 08/2011 – 02/2012
+ - Site: http://www.webinnovative.com
+ - Nesta empresa de outsourcing, trabalhei em inumeros projetos em varias tecnologias.
+
+### Netsuprema ###
+ - Periodo: 01/2003 – 08/2011
+ - Site: http://www.netsuprema.com.br
+ - Empresa local que trabalha com desenvolvendo de software quase como uma fabrica, porem ao final em geral fechavamos contratos de manutenção evolutiva, fui o primeiro empregado do departamento de desenvolvimento.
+
+
